@@ -8,7 +8,7 @@ Full disclosure: this guide was inspired by a [similar one made by a former mana
 # About me
 I'm a software engineer from Uruguay, a little country in South America. I drink mate 🧉 (a traditional beverage here, highly caffeinated) pretty much all the time. I've been at RevenueCat since Jan 2020. 
 
-Although I'm currently a manager, I enjoy coding a LOT, and am very happy to nerd about about engineering problems. In past lives I've done a decent amount of backend and infrastructure development with python and ruby and infra with AWS and web development, but in recent years I've been mostly focused on mobile development, especially on iOS but with a mix of technologies and platforms since joining RevenueCat. 
+Although I'm currently a manager, I enjoy coding a LOT, and am very happy to nerd out about engineering problems. In past lives I've done a decent amount of backend and infrastructure development with python and ruby and infra with AWS and web development, but in recent years I've been mostly focused on mobile development, especially on iOS but with a mix of technologies and platforms since joining RevenueCat. 
 
 I can't promise to be the best manager you've ever had. But I will certainly try my best. I care deeply about your success and the success of our company and our customers, and will try to find ways for you to grow and to push you to do your best work. 
 
