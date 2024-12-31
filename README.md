@@ -47,7 +47,7 @@ Lastly, I will consistently try to push you to do bigger and better things, and 
 ## Understanding the problem and the industry
 Given that the tasks you will get from me are "high-level, loosely-defined", you will have to make a lot of decisions. To make them effectively, you will have to gain an understanding of the company, our customers and their needs, our products and our position in the market. I consider this to be a part of the job. There are many ways to get this knowledge - talk to customers, listen to podcasts, read our blog posts, dogfood, try building an app, etc. I am happy to guide you here. 
 
-That being said, I can always help make these decisions. I have opinions about literally all things, so I will typically try to let you make the calls, but will be happy to provide my two cents. 
+That being said, I can always help make these decisions. I have opinions about literally all things, so while I'll typically try to let you make the calls, I'm always happy to provide my two cents. 
 
 ### Turning your ideas into action
 Related to the previous point: while working, you will come up with ideas for improving our product, process, technology, etc. I would very much love to help you carry them through! But they need to have a specific purpose that will help a real human (see "Motivations"). 
