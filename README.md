@@ -15,7 +15,7 @@ I can't promise to be the best manager you've ever had. But I will certainly try
 ## Motivations
 All I really want is to build things that are useful to others and help them make money. So I always focus on customer impact and their experience, and love hearing the feedback directly from customers. Everything we build together should somehow make someone's life easier, otherwise it's wasted time. 
 
-I am also a nerd at heart. I enjoy having technical discussions of all sorts in all areas of the stack. I'll obviously not be equally strong in all of them, but I will always enjoy the discussion regardless. I love seeing the results of cool and clever engineering, although ideally it's not too clever (more on that later). 
+I am also a nerd at heart. I enjoy having technical discussions of all sorts in all areas of the stack. I'll obviously not be equally familiar in all of them, but I will always enjoy the discussion regardless. I love seeing the results of cool and clever engineering, although ideally it's not too clever (more on that later). 
 
 And I love working with people who are smarter than myself and seeing what they build. 
 
