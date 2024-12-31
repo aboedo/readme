@@ -50,7 +50,7 @@ Given that the tasks you will get from me are "high-level, loosely-defined", you
 That being said, I can always help make these decisions. I have opinions about literally all things, so while I'll typically try to let you make the calls, I'm always happy to provide my two cents. 
 
 ### Turning your ideas into action
-Related to the previous point: while working, you will come up with ideas for improving our product, process, technology, etc. I would very much love to help you carry them through! But they need to have a specific purpose that will help a real human (see "Motivations"). 
+Related to the previous point: while working, you will come up with ideas for improving our product, process, technology, etc. I would very much love to help you carry them through! Just as long as they have a specific purpose that will help a real human (see "Motivations"). 
 
 # Other
 
